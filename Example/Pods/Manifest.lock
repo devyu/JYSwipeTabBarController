@@ -1,0 +1,16 @@
+PODS:
+  - JYSwipeTabBarController (1.0.0)
+
+DEPENDENCIES:
+  - JYSwipeTabBarController (from `../`)
+
+EXTERNAL SOURCES:
+  JYSwipeTabBarController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JYSwipeTabBarController: d2829ae030989344a492a82782e5947c31aba1e1
+
+PODFILE CHECKSUM: fc9696e952801d6221ba3facfced3dae49af1125
+
+COCOAPODS: 1.8.4

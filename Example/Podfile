@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JYSwipeTabBarController_Example' do
+  pod 'JYSwipeTabBarController', :path => '../'
+
+  target 'JYSwipeTabBarController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

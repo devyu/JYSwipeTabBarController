@@ -1,0 +1,22 @@
+{
+  "name": "JYSwipeTabBarController",
+  "version": "1.0.0",
+  "summary": "A short description of JYSwipeTabBarController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/devyu/JYSwipeTabBarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "devyu": "dev.jingyu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/\bdevyu/JYSwipeTabBarController.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JYSwipeTabBarController/Classes/**/*"
+}

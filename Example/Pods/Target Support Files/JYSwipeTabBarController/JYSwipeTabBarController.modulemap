@@ -1,0 +1,6 @@
+framework module JYSwipeTabBarController {
+  umbrella header "JYSwipeTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}
